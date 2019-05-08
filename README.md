@@ -1,7 +1,7 @@
 #README
 #Note
 
-##Setup Instructions for group 0649
+##Setup Instructions 
 * Use Android Studio.
 1. Clone the repository from MarkUs by copying the URL and choosing to import from version
 control -> Git
